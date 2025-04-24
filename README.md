@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 ¡Buenas! Soy Antonio 
+💻 Sobre mí:
 
-<!--
-**DonAntonio406/DonAntonio406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador backend especializado en Java y Spring, con interés en proyectos desafiantes y aprendizaje constante.
 
-Here are some ideas to get you started:
+Java Spring Python JavaScript HTML5 CSS3 Docker
+🛠️ Tecnologías y herramientas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+String[][] habilidades = {
+        {"Java", "Experto"},
+        {"Spring", "Avanzado"},
+        {"SQL", "Avanzado"},
+        {"Python", "Intermedio"},
+        {"HTML", "Intermedio"},
+        {"CSS", "Intermedio"},
+        {"JavaScript", "Principiante"},
+        {"ReactJS", "Principiante"},
+        {"Docker", "Principiante"}
+};
