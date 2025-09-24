@@ -12,7 +12,7 @@
 # 💫Sobre mí :
 🔭 A día de hoy estoy mejorando mi perfil de Github : https://github.com/DonAntonio406
   
-🌱 Actualmente estoy estudiando : Java
+🌱 Actualmente estoy estudiando : Java / PHP / JavaScript / C# / Python
 
   📫 Como contactar:  
   Mail me at "agarcuiz1@aol.com" o
